@@ -1,0 +1,9 @@
+
+//--REQUEST METHOD - POST
+//-- URL : /api/employees/saveEntities
+//-- PAYLOAD :  
+[
+    {"employeeId": 1, "displayId": 1, "email": "example1@email.com", "mobile": "1234567890", "address": "1 Left St"},
+    {"employeeId": 1, "displayId": 2, "email": "example2@email.com", "mobile": "9876543210", "address": "2 Middle St"},
+    {"employeeId": 1, "displayId": 3, "email": "example3@email.com", "mobile": "5556667777", "address": "3 Right St"}
+]
